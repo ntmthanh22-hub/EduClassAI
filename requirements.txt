@@ -1,5 +1,4 @@
-os
-json
-random
-pandas
 streamlit
+google-generativeai
+pandas
+requests
